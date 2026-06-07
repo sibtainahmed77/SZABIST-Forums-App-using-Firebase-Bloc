@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"dart":{"lib/firebase_options.dart":{"projectId":"szab-forums-app","configurations":{"android":"1:910147538423:android:82c2d437b34c3ed5d2b2f2","ios":"1:910147538423:ios:fe74fe3086638c19d2b2f2"}}},"android":{"default":{"projectId":"szab-forums-app","appId":"1:910147538423:android:82c2d437b34c3ed5d2b2f2","fileOutput":"android/app/google-services.json"}}}}}
